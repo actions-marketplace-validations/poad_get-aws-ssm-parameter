@@ -186,9 +186,9 @@ concat-map@0.0.1:
   integrity sha512-/Srv4dswyQNBfohGpz9o6Yb3Gz3SrUDqBH5rTuhGR7ahtlbYKnVxw2bCFMRljaA7EXHaXZ8wsHdodFvbkhKmqg==
 
 constructs@*:
-  version "10.1.297"
-  resolved "https://registry.yarnpkg.com/constructs/-/constructs-10.1.297.tgz#85e6b5c4268109a755ef42cbd5561e295a2d9e2c"
-  integrity sha512-4bcwVZZfv9comPu04SEeWMTk9ajCweFPCNiJs1Pe9s23BbB6xtuku+dgr2KutUeViXPIijmsQuOyxMlFTrF6Pg==
+  version "10.2.1"
+  resolved "https://registry.yarnpkg.com/constructs/-/constructs-10.2.1.tgz#eb0749912d96cd751cc032c2133c08a39f6cd2c5"
+  integrity sha512-XJSrPWg3iXHe7a7bk1+Ty+yd4G2xQQP1dKEcOdoaBcCWEHIZMJ8D/J/ogptgJwp0hbJzlZueSab79osa29z5ug==
 
 create-require@^1.1.0:
   version "1.1.1"
